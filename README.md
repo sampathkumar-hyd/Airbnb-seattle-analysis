@@ -18,7 +18,7 @@ For this project, I was interestested in using Airbnb Seattle data from Kaggle t
   2. How are Airbnb prices distributed across top 3 features?
   3. What are the most expensive zipcodes in Seattle?
 
-The full set of files related to this course are owned by Kaggle [here](https://www.kaggle.com/airbnb/seattle/data)
+The full set of files related to this course are owned by Kaggle [here](https://www.kaggle.com/airbnb/seattle/data target="_blank")
 
 
 
