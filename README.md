@@ -6,7 +6,7 @@ Contains the code for Udacity DSND part 2 project 1 - Data science blog post
   2. [Project Motivation](#Project-Motivation)
   3. [File Descriptions](#File-Descriptions)
   4. [Results](#Results)
-  5. [Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and-Acknowledgements)
+  5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.x
@@ -32,7 +32,7 @@ The project also consists of a notebook to show case the actual analysis.
 ### Results
 The main findings of the code can be found at the post available here.
 
-### Licensing, Authors, and Acknowledgements
+### Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 The data for this analysis was downloaded from [Kaggle](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
 
 
