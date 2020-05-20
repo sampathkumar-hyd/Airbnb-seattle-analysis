@@ -28,7 +28,7 @@ The project consists of 3 CSV files downloaded from Kaggle. These are the data f
 
 The reviews.csv is too big to be uploaded into github and hence has been compressed into reviews.zip file and uploaded. You should unzip the file into reviews.csv before executing the notebook.
 
-The project also consists of a notebook to show case the actual analysis.
+The project also consists of a notebook to show case the actual analysis - DSND-Airbnb-Seattle.ipynb
 
 ### Results
 The main findings of the code can be found at the post available here.
