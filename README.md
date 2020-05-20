@@ -2,7 +2,7 @@
 Contains the code for Udacity DSND part 2 project 1 - Business and data understanding
 
 ### Table of Contents
-  1. Installation
+  1. Installation(#Installation)
   2. Project Motivation
   3. File Descriptions
   4. Results
