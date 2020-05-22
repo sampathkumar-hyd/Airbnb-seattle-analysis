@@ -31,7 +31,7 @@ The reviews.csv is too big to be uploaded into github and hence has been compres
 The project also consists of a notebook to show case the actual analysis - DSND-Airbnb-Seattle.ipynb
 
 ### Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@vskumar/how-do-you-price-your-property-in-airbnb-808b488c7230).
 
 ### Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 The data for this analysis was downloaded from [Kaggle](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
